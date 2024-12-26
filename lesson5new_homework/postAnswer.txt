@@ -1,0 +1,12 @@
+{
+    "Person1": {
+        "name": "%s",
+        "surname": "%s",
+        "age": %d
+    },
+    "Person2": {
+        "name": "%s",
+        "surname": "%s",
+        "age": %d
+    }
+}
